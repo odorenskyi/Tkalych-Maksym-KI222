@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678654031 source:d:\bmtp\tkalych-maksym-ki222\lab08\prj\tkalych_task\main.cpp
+	<iostream>
+	"ModulesTkalych.h"
+	<Windows.h>
+
