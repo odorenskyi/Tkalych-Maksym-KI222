@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1678644528 source:d:\bmtp\tkalych-maksym-ki222\lab08\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesTkalych.h"
+
+1678634180 d:\bmtp\tkalych-maksym-ki222\lab08\prj\modulestkalych.h
+
+1686167931 source:d:\bmtp\tkalych-maksym-ki222\lab09\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesTkalych.h"
+	<Windows.h>
+
+1686167052 d:\bmtp\tkalych-maksym-ki222\lab09\prj\modulestkalych.h
+
