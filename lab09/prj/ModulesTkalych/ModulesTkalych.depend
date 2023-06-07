@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678641061 source:d:\bmtp\tkalych-maksym-ki222\lab08\prj\modulestkalych\main.cpp
+	<cmath>
+
+1686164333 source:d:\bmtp\tkalych-maksym-ki222\lab09\prj\modulestkalych\main.cpp
+	<cmath>
+	<iostream>
+
