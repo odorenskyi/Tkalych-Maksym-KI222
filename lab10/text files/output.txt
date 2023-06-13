@@ -1,0 +1,25 @@
+﻿Developed by Maksym Tkalych 
+CNTU
+Kropyvnytskiy
+Ukraine
+2023
+
+Count of commas: 0
+Count of dots: 5
+Date and time of addition: Tue Jun 13 20:31:26 2023
+
+ 
+Оленка радісно махає їй рукою.
+
+ 
+Аж ось і мама.
+
+ 
+Маленька Оленка коло вікна
+чекає з роботи маму.
+
+Зимовий вечір. Надворі крутить завірюха.
+
+Text language: English
+Result of  s_calculation with agruments x = 2, y = 12,  z = 3 equals 317.717
+Number25 in binary: 00000000000000000000000000011001
